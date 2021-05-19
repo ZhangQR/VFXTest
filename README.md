@@ -5,4 +5,4 @@
 
 ## Logo
 [Step by Step](https://www.jianshu.com/p/60b022dfefa8)  
-![效果图](./Pictrues/Logo.gif)
+![效果图](https://github.com/ZhangQR/VFXTest/raw/master/Pictures/Logo.gif)
